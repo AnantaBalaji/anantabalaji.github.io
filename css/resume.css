@@ -67,6 +67,11 @@ p.lead {
   margin-right: 1rem;
 }
 
+.highlight{
+  color: rgba(4, 2, 1, 0.82) !important;
+  font-weight: bold;
+}
+
 .social-icons a:last-child {
   margin-right: 0;
 }
@@ -89,6 +94,11 @@ p.lead {
   text-transform: uppercase;
 }
 
+.img-project {
+  border-radius: 10px;
+  max-width: 100%;
+  height: auto;
+}
 #sideNav .navbar-toggler:focus {
   outline-color: #d48a6e;
 }
